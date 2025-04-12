@@ -1,6 +1,7 @@
 # mirador
 
 Implementation of tree algorithm (file and dir search).
+If a directory is empty, it won't be listed.
 
 ## Example
 
